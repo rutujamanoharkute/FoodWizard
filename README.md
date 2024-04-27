@@ -9,7 +9,7 @@
 Utilizes FoodWizard, powered by OpenAI's technology, to extract content from cooking tutorials available in various languages such as Hindi, Tamil, Marathi, and English.
 Recipe 
 
-##### Recommendations:
+#### Recommendations:
 
 Users can input any text, including specific instructions or preferences, and receive personalized recipe recommendations based on their input.
 Recipe Filtering:
