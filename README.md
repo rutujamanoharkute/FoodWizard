@@ -2,14 +2,14 @@
 ### Youtube Link: https://youtu.be/xQv5ouowBUk
 
 ### Functionalities:
-Chrome Extension for Recipe Collection:
 
-Users can save their favorite cooking tutorial videos from YouTube by inputting the video links.
-Saved videos are organized into a personalized recipe collection for each user.
-YouTube Video Summarization with FoodWizard:
+
+#### YouTube Video Summarization with FoodWizard:
 
 Utilizes FoodWizard, powered by OpenAI's technology, to extract content from cooking tutorials available in various languages such as Hindi, Tamil, Marathi, and English.
-Recipe Recommendations:
+Recipe 
+
+##### Recommendations:
 
 Users can input any text, including specific instructions or preferences, and receive personalized recipe recommendations based on their input.
 Recipe Filtering:
